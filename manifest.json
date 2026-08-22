@@ -5,7 +5,13 @@
   "display": "standalone",
   "background_color": "#0b0f19",
   "theme_color": "#00f0ff",
+  "orientation": "any",
+  "id": "com.html.cybercode",
   "description": "A simple and fast code editor and browser app",
+  "lang": "en",
+  "categories": [
+    "developer"
+  ],
   "icons": [
     {
       "src": "./launchericon-192x192.png",
