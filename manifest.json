@@ -1,0 +1,17 @@
+{
+  "background_color": "#0b0f19",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "HTML CyberCode",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CyberCode",
+  "start_url": "./index.html",
+  "theme_color": "#0b0f19",
+  "id": "com.html.cybercode",
+  "description": "A simple and fast code editor and browser app",
+  "lang": "en",
+  "categories": [
+    "developer"
+  ]
+}
