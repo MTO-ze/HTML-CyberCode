@@ -1,17 +1,21 @@
 {
-  "background_color": "#0b0f19",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "HTML CyberCode",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "CyberCode",
   "start_url": "./index.html",
-  "theme_color": "#0b0f19",
-  "id": "com.html.cybercode",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#00f0ff",
   "description": "A simple and fast code editor and browser app",
-  "lang": "en",
-  "categories": [
-    "developer"
+  "icons": [
+    {
+      "src": "./launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
